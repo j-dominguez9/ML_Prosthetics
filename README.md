@@ -2,6 +2,7 @@
 # The Role of Machine Learning in improved Functionality of Lower Limb Prostheses
 
 *Winner of the Spring 2023 Southern Methodist University MSDS Thesis Award
+Published Paper: https://scholar.smu.edu/datasciencereview/vol7/iss1/5/
 
 By: Joaquin Dominguez, Richard Kim, Dr. Robert Slater
 
